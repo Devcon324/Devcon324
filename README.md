@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devon Knight</h1>
-<h3 align="center">Software Engineering Student at University of Ottawa</h3>
+<h3 align="center">Software Engineering (Co-Op) Student at University of Ottawa,Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=2ef40b&style=plastic" alt="devcon324" /> </p>
 
 - 🔭 I’m currently working on [D&D Bot](https://github.com/Devcon324/D_DBot)
 
-- 🌱 I’m currently learning **JAvaScript, ReactJS, NodeJS, TypeScript**
+- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://devcon324.github.io/Homepage/](https://devcon324.github.io/Homepage/)
 
@@ -13,11 +13,12 @@
 
 - 📫 How to reach me **devknight324@gmail.com**
 
-- ⚡ Fun fact **I used to compete in the Canadian Powerlifitng Union**
+- ⚡ Fun fact **I attended the Canadian Powerlifitng Union Championships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devonknight/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devonknight/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devonknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devonknight" height="30" width="40" /></a>
+<a href="https://discord.gg/176796281291669513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="176796281291669513" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
