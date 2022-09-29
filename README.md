@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devon Knight</h1>
 <h3 align="center">Software Engineering Student at University of Ottawa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=0e75b6&style=plastic" alt="devcon324" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcon324" alt="devcon324" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=2ef40b&style=plastic" alt="devcon324" /> </p>
 
 - 🔭 I’m currently working on [D&D Bot](https://github.com/Devcon324/D_DBot)
 
