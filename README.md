@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devon Knight</h1>
-<h3 align="center">Software Engineering (Co-Op) Student at University of Ottawa,Canada</h3>
+<h3 align="center">Software Engineering (Co-Op) Student at University of Ottawa, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=2ef40b&style=plastic" alt="devcon324" /> </p>
 
