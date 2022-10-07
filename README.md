@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **devknight324@gmail.com**
 
-- ⚡ Fun fact **I attended the Canadian Powerlifitng Union Championships**
+- ⚡ Fun fact **I competed the Canadian Powerlifitng Union Championships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
