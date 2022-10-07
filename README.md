@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://devcon324.github.io/Homepage/](https://devcon324.github.io/Homepage/)
-
 - 💬 Ask me about **Powerlifting, Dragonboat, Dream Projects**
 
 - 📫 How to reach me **devknight324@gmail.com**
