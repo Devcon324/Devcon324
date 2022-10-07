@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [D&D Bot](https://github.com/Devcon324/D_DBot)
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS, TypeScript**
+- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://devcon324.github.io/Homepage/](https://devcon324.github.io/Homepage/)
 
