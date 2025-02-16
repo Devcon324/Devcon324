@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=2ef40b&style=plastic" alt="devcon324" /> </p>
 
+- 🤝 Co-Creater or [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency rooma nd clinician support web app to reduce wait times in public healthcare settings. 
+
 - 🔭 I’m currently working on [The Neverending Story]([https://github.com/Devcon324/D_DBot](https://github.com/Devcon324/NeverEndingStory))
 
-- 🌱 I’m currently learning **LLM's, PytTorch, FastAPI, React, Maybe some more C/C++ soon!**
+- 🌱 I’m currently learning **LLM's, PyTorch, FastAPI, React, Maybe some more C/C++ soon!**
+
+- 🛠️ I have tinkered with **Healthcare WebApps, Unity, Godot, Java Projects, Video Editing**
 
 - 💬 Ask me about **World-Championship Dragonboating, Provintial Championship Powerlifting, and Healthcare**
 
