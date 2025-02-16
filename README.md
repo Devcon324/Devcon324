@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=2ef40b&style=plastic" alt="devcon324" /> </p>
 
-- 🤝 Co-Creater or [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency rooma nd clinician support web app to reduce wait times in public healthcare settings. 
+- 🤝 Co-Creater of [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency rooma nd clinician support web app to reduce wait times in public healthcare settings. 
 
 - 🔭 I’m currently working on [The Neverending Story]([https://github.com/Devcon324/D_DBot](https://github.com/Devcon324/NeverEndingStory))
 
