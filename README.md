@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Devon Knight</h1>
+<h1 align="center">Hey! 👋, I'm Devon Knight</h1>
 <h3 align="center">Software Engineering (Co-Op) Student at University of Ottawa, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=2ef40b&style=plastic" alt="devcon324" /> </p>
 
-- 🔭 I’m currently working on [D&D Bot](https://github.com/Devcon324/D_DBot)
+- 🔭 I’m currently working on [The Neverending Story]([https://github.com/Devcon324/D_DBot](https://github.com/Devcon324/NeverEndingStory))
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
+- 🌱 I’m currently learning **LLM's, PytTorch, FastAPI, React, Maybe some more C/C++ soon!**
 
-- 💬 Ask me about **Powerlifting, Dragonboat, Dream Projects**
+- 💬 Ask me about **World-Championship Dragonboating, Provintial Championship Powerlifting, and Healthcare**
 
-- 📫 How to reach me **devknight324@gmail.com**
-
-- ⚡ Fun fact **I competed the Canadian Powerlifitng Union Championships**
+- ⚡ Fun fact **In 2024, I competed in the Ravenna, Italy Dragon Boat World-Championships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
