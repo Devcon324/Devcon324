@@ -28,4 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devcon324&show_icons=true&theme=monokai&locale=en&layout=compact" alt="devcon324" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devcon324&show_icons=true&theme=monokai&locale=en" alt="devcon324" /></p>
+[//]: # (Commented)
+[//]: # (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devcon324&show_icons=true&theme=monokai&locale=en" alt="devcon324" /></p>)
+
