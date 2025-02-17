@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=33a023&style=flat" alt="devcon324" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcon324&column=6&theme=monokai&margin-w=15&margin-h=15&no-frame=true&title=-Stars,-Followers,-issues,-reviews" alt="devcon324" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcon324&column=6&theme=monokai&margin-w=15&margin-h=15&no-frame=true&title=-Stars,-Followers,-Issues,-Reviews" alt="devcon324" /></a> </p>
 
 - 🤝 Co-Creater of [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency rooma nd clinician support web app to reduce wait times in public healthcare settings.
 
