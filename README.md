@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [The Neverending Story](https://github.com/Devcon324/NeverEndingStory)
 
-- 💬 Ask me about **Python, React, Game Design, LLMs, and Agebntic frameworks**
+- 💬 Ask me about **Python, React, Game Design, LLMs, and Agentic frameworks**
 
 - 📜 You can find my latest Resume here [https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
 
