@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, React, Game Design, LLMs, and Agentic frameworks**
 
-- 📜 You can find my latest Resume here [https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
+- 📜 You can find my latest Resume [Here](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
 
 - ⚡ Fun fact **In 2024, I competed in the Ravenna, Italy Dragon Boat World-Championships**
 
