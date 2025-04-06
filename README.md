@@ -7,6 +7,16 @@
 
 - 🤝 Co-Creater of [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency room and clinician support web app to reduce wait times in public healthcare settings.
 
+- 👨🏻‍💻 Led **[uOttaHack](https://www.uottahack.ca/), Canada's 2nd largest Hackathon conference** to **1,000 total attendees**.
+  - 👨‍🎓 **856** Students! (**+32%**, 2024-2025!)
+  - 🛠️ **138** Projects! (**+55%**, 2024-2025!)
+  - 🤝 **45** Sponsors & Partners! (**+80%**, 2024-2025!)
+  - ❗❗ **11** Company Challenges! (**+175%**, 2024-2025!)
+  - 📈 Growth from **Developer** (2023) ➡️ **Community Director** (2024) ➡️ **Sponsorship Director** (2025)
+  - 🚀 Helped **3,000+ students** learn and attain internships/full-time positions!
+  - 🔥 Made rewarding community events with the Faculty & University!
+  - ✈️ Led an international collaboration with **Mexico** 🇲🇽 and **Hong Kong** 🇭🇰 to visit and seeded hackathons!
+
 - 🌱 I’m currently learning **LLM's, PyTorch, FastAPI, React, Maybe some more C/C++ soon!**
 
 - 🔭 I’m currently working on [The Neverending Story](https://github.com/Devcon324/NeverEndingStory)
