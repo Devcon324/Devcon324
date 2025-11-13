@@ -9,7 +9,7 @@
     3 Years of Experience in [AI, Full-Stack, DevOps]
   </p>
   <p>🔎 Seeking Final Summer Co-Op & Full-Time Roles</p>
-  <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=33a023&style=for-the-badge" alt="devcon324" />
+  <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=00A376&style=for-the-badge" alt="devcon324" />
 </h2>
 
 - 📜 You can find my latest Resume [Here](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
