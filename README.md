@@ -3,10 +3,10 @@
 </h1>
 <h2 align="center">
   <p>
-    🧠 3 Years of Experience in [AI, Full-Stack, DevOps]
     <a href="https://linkedin.com/in/devonknight" target="_blank" style="display: inline-flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/filled/linkedin.svg" alt="devonknight" height="24" width="24" />
     </a>
+    3 Years of Experience in [AI, Full-Stack, DevOps]
   </p>
   <p>🔎 Seeking Final Summer Co-Op & Full-Time Roles</p>
   <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=33a023&style=for-the-badge" alt="devcon324" />
