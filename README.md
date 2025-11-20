@@ -14,7 +14,7 @@
 
 - 📜 You can find my latest Resume [Here](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
 - 🌱 I’m currently learning *Neural Networks, FastAPI, C#*
-- 🔭 I’m currently working on [The Neverending Story](https://github.com/Devcon324/NeverEndingStory)
+- 🔭 I’m currently working on [RULES-LAWYER](https://github.com/Devcon324/rules-lawyer) (a boardgame teacher) & [The Neverending Story](https://github.com/Devcon324/NeverEndingStory) a Ai Lore-Generator
 - 💬 Ask me about *Training AI for your business and daily life*
 - ⚡ Fun fact **In 2024, I competed in the Ravenna, Italy Dragon Boat World-Championships**
 - 🤝 Co-Creater of [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency room efficiency and physician support web app.
