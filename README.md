@@ -24,8 +24,8 @@
   - 🤝 **45** Sponsors & Partners! (**+80%** from the previous year!)
   - ❗❗ **11** Company Challenges! (**+175%** from the previous year!)
   - 🚀 Helped *3,000+ students* learn and attain internships & full-time positions!
-  - 🔥 Made rewarding community events with the Faculty & University!
   - ✈️ Led an international collaboration with *Mexico* 🇲🇽 and *Hong Kong* 🇭🇰!
+  - 🔥 Made rewarding community events with the Faculty & University!
   - 📈 Growth from *Web Developer* 👉 *Community Director* 👉 *Sponsorship Director* 👉 *Business Partnerships Advisor*
 
 <h3 align="left">Languages and Tools I Have Used:</h3>
