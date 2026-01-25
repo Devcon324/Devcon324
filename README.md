@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋, I'm Devon Knight, a Senior Software Engineering Student
+  👋, I'm Devon Knight, a MedSci Turned Software Engineering Student
 </h1>
 <h2 align="center">
   <p>
