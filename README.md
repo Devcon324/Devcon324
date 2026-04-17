@@ -6,9 +6,9 @@
     <a href="https://linkedin.com/in/devonknight" target="_blank" style="display: inline-flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/filled/linkedin.svg" alt="devonknight" height="24" width="24" />
     </a>
-    3 Years of Experience in [AI, Full-Stack, DevOps]
+    3 Years of Experience in AI Enginnering, Backend, & DevOps
   </p>
-  <p>🔎 Seeking Final Summer Co-Op & Full-Time Roles</p>
+  <p>🔎 Seeking Full-Time Roles</p>
 
   <a href="https://www.devonknight.dev/" target="_blank">
     <img src="https://img.shields.io/badge/My%20life%20as%20a%20graph%20-www.devonknight.dev-0A101D?style=for-the-badge&logo=graphql&logoColor=white" alt="Personal Website" />
