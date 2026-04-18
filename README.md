@@ -16,15 +16,21 @@
   
   <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=00A376&style=for-the-badge" alt="devcon324" />
   
+  [Resume](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
+
 </h2>
 
-
-- 📜 You can find my latest Resume [Here](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
-- 🌱 I’m currently learning *Neural Networks, FastAPI, C#*
-- 🔭 I’m currently working on [RULES-LAWYER](https://github.com/Devcon324/rules-lawyer) (a boardgame teacher) & [The Neverending Story](https://github.com/Devcon324/NeverEndingStory) a Ai Lore-Generator
-- 💬 Ask me about *Training AI for your business and daily life*
-- ⚡ Fun fact **In 2024, I competed in the Ravenna, Italy Dragon Boat World-Championships**
+- 📜 You can view my life as a [Graph](https://www.devonknight.dev/)
+- 💬 Won NVIDIA's 2nd Place in Edge AI at [Stanford University](https://www.stanford.edu/)'s [TreeHacks](https://treehacks.com/) B
+- 🔭 I’m currently working on:
+  - A CRM & Dashboard for Hackathons: [uOttaSuite Demo](https://uottasuite.vercel.app/)
+  - More soon...
+- 🛠️ Just finished building
+  - An board game RAG pipeline: [RULES-LAWYER](https://github.com/Devcon324/rules-lawyer)
+  - An Ai Lore-Generator: [The Neverending Story](https://github.com/Devcon324/NeverEndingStory) 
+  - Built an Eemrgency Response System [CalTrack](https://github.com/alangrewco/treehacks) 
 - 🤝 Co-Creater of [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency room efficiency and physician support web app.
+- ⚡ Fun fact **I Went to Italy for the Dragon Boat World-Championships**
 - 👨🏻‍💻 Led **[uOttaHack](https://www.uottahack.ca/), Canada's 2nd largest Hackathon conference** to **1,000 total attendees**.
   - 👨‍🎓 **856** Students! (**+32%** from the previous year!)
   - 🛠️ **138** Projects! (**+55%** from the previous year!)
