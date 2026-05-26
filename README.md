@@ -21,7 +21,7 @@
 </h2>
 
 - 📜 You can view my life as a [Graph](https://www.devonknight.dev/)
-- 💬 Won NVIDIA's 2nd Place in Edge AI at [Stanford University](https://www.stanford.edu/)'s [TreeHacks](https://treehacks.com/) B
+- 💬 Won NVIDIA's 2nd Place in Edge AI at [Stanford University](https://www.stanford.edu/)'s [TreeHacks](https://treehacks.com/)
 - 🔭 I’m currently working on:
   - A CRM & Dashboard for Hackathons: [uOttaSuite Demo](https://uottasuite.vercel.app/)
   - More soon...
