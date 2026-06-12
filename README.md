@@ -27,7 +27,7 @@
   - Control Center for 911 and EMS Operators: [CalTrack](https://github.com/alangrewco/treehacks) 
   - A board game RAG pipeline: [RULES-LAWYER](https://github.com/Devcon324/rules-lawyer)
   - A AI Lore-Generator: [The Neverending Story](https://github.com/Devcon324/NeverEndingStory)
-  - A Emergency Medicine Triage System: [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency room efficiency and physician support web app.
+  - A Emergency Medicine Triage System: [Co-Med](https://with-comed.vercel.app/)
 - 👨🏻‍💻 Led **[uOttaHack](https://www.uottahack.ca/), Canada's 2nd largest Hackathon conference** to **1,000 total attendees**.
   - 👨‍🎓 **856** Students! (**+32%** from the previous year!)
   - 🛠️ **138** Projects! (**+55%** from the previous year!)
