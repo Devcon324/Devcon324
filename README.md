@@ -17,7 +17,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=00A376&style=for-the-badge" alt="devcon324" />
   
-  [Resume](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
+  [📝Resume📝](https://raw.githubusercontent.com/Devcon324/Resume/master/Devon_Knight_resume.pdf)
 
 </h2>
 
