@@ -1,17 +1,18 @@
 <h1 align="center">
-  👋, I'm Devon Knight, a MedSci Turned Software Engineering Student
+  Devon Knight, AI Engineer & Software Developer
 </h1>
 <h2 align="center">
   <p>
     <a href="https://linkedin.com/in/devonknight" target="_blank" style="display: inline-flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/filled/linkedin.svg" alt="devonknight" height="24" width="24" />
     </a>
-    3 Years of Experience in AI Enginnering, Backend, & DevOps
+    3 Years in AI Enginnering, Backend, & DevOps
   </p>
+  <p>I focus on rapid prototyping and breadth of understanding</p>
   <p>🔎 Seeking Full-Time Roles</p>
 
   <a href="https://www.devonknight.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20life%20as%20a%20graph%20-www.devonknight.dev-0A101D?style=for-the-badge&logo=graphql&logoColor=white" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/My%20life%20graph%20-www.devonknight.dev-0A101D?style=for-the-badge&logo=graphql&logoColor=white" alt="Personal Website" />
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=devcon324&label=Profile%20views&color=00A376&style=for-the-badge" alt="devcon324" />
@@ -20,17 +21,13 @@
 
 </h2>
 
-- 📜 You can view my life as a [Graph](https://www.devonknight.dev/)
 - 💬 Won NVIDIA's 2nd Place in Edge AI at [Stanford University](https://www.stanford.edu/)'s [TreeHacks](https://treehacks.com/)
-- 🔭 I’m currently working on:
-  - A CRM & Dashboard for Hackathons: [uOttaSuite Demo](https://uottasuite.vercel.app/)
-  - More soon...
-- 🛠️ Just finished building
-  - An board game RAG pipeline: [RULES-LAWYER](https://github.com/Devcon324/rules-lawyer)
-  - An Ai Lore-Generator: [The Neverending Story](https://github.com/Devcon324/NeverEndingStory) 
-  - Built an Eemrgency Response System [CalTrack](https://github.com/alangrewco/treehacks) 
-- 🤝 Co-Creater of [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency room efficiency and physician support web app.
-- ⚡ Fun fact **I Went to Italy for the Dragon Boat World-Championships**
+- 🔭 I’m currently working on a Command Center for Hackathons: [uOttaSuite Demo](https://uottasuite.vercel.app/)
+- 🛠️ Finished building
+  - Control Center for 911 and EMS Operators: [CalTrack](https://github.com/alangrewco/treehacks) 
+  - A board game RAG pipeline: [RULES-LAWYER](https://github.com/Devcon324/rules-lawyer)
+  - A AI Lore-Generator: [The Neverending Story](https://github.com/Devcon324/NeverEndingStory)
+  - A Emergency Medicine Triage System: [Co-Med](https://with-comed.vercel.app/), a premier LLM assisting emergency room efficiency and physician support web app.
 - 👨🏻‍💻 Led **[uOttaHack](https://www.uottahack.ca/), Canada's 2nd largest Hackathon conference** to **1,000 total attendees**.
   - 👨‍🎓 **856** Students! (**+32%** from the previous year!)
   - 🛠️ **138** Projects! (**+55%** from the previous year!)
