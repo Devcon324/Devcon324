@@ -24,7 +24,7 @@
 - 💬 Won NVIDIA's 2nd Place in Edge AI at [Stanford University](https://www.stanford.edu/)'s [TreeHacks](https://treehacks.com/)
 - 🔭 I’m currently working on a Command Center for Hackathons: [uOttaSuite Demo](https://uottasuite.vercel.app/)
 - 🛠️ Finished building
-  - A Edge AI Assistant: [NVIDIA Jetson Nano Voice Assistant]([https://github.com/Devcon324/NeverEndingStory](https://github.com/Devcon324/jetson-nano-jarvis))
+  - A Edge AI Assistant: [NVIDIA Jetson Nano Voice Assistant](https://github.com/Devcon324/jetson-nano-jarvis)
   - Control Center for 911 and EMS Operators: [CalTrack](https://github.com/alangrewco/treehacks) 
   - A board game RAG pipeline: [RULES-LAWYER](https://github.com/Devcon324/rules-lawyer)
   - A Emergency Medicine Triage System: [Co-Med](https://with-comed.vercel.app/)
